@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247919581902",
+    "project_id": "form-af3e4",
+    "storage_bucket": "form-af3e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247919581902:android:328fcce82934ed46f00e9f",
+        "android_client_info": {
+          "package_name": "com.ujian6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247919581902-kkjao2eqbh2h0qah124h4lqs4be9go94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoAHhA5xm5apQc5J1dUB1GJRSKbeWx0EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247919581902-kkjao2eqbh2h0qah124h4lqs4be9go94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
